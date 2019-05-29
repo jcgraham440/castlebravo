@@ -1,4 +1,6 @@
-
+'
+' Structures to hold superlatives
+'
 Type Greatest_YearlyChange_Percentage
     GYP As Double
     Ticker As String
